@@ -18,6 +18,5 @@ big2() {
 	printf("Both are Equal\n");
     }
 {
-}
     //return 0;  
 }
